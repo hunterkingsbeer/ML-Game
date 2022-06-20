@@ -1,0 +1,235 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FSharp.Core/6.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/FSharp.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/FSharp.Core.dll": {}
+        },
+        "resource": {
+          "lib/netstandard2.1/cs/FSharp.Core.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netstandard2.1/de/FSharp.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netstandard2.1/es/FSharp.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.1/fr/FSharp.Core.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.1/it/FSharp.Core.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netstandard2.1/ja/FSharp.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/netstandard2.1/ko/FSharp.Core.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/netstandard2.1/pl/FSharp.Core.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netstandard2.1/ru/FSharp.Core.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netstandard2.1/tr/FSharp.Core.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        },
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      },
+      "EventSource/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FSharp.Core": "6.0.1",
+          "MLGame": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EventSource.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventSource.dll": {}
+        }
+      },
+      "MLGame/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FSharp.Core": "6.0.1",
+          "Types": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MLGame.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MLGame.dll": {}
+        }
+      },
+      "Types/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FSharp.Core": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Types.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FSharp.Core/6.0.1": {
+      "sha512": "VrFAiW8dEEekk+0aqlbvMNZzDvYXmgWZwAt68AUBqaWK8RnoEVUNglj66bZzhs4/U63q0EfXlhcEKnH1sTYLjw==",
+      "type": "package",
+      "path": "fsharp.core/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "contentFiles/any/netstandard2.0/FSharp.Core.xml",
+        "contentFiles/any/netstandard2.1/FSharp.Core.xml",
+        "fsharp.core.6.0.1.nupkg.sha512",
+        "fsharp.core.nuspec",
+        "lib/netstandard2.0/FSharp.Core.dll",
+        "lib/netstandard2.0/FSharp.Core.xml",
+        "lib/netstandard2.0/cs/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/de/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/es/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/fr/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/it/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/ja/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/ko/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/pl/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/pt-BR/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/ru/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/tr/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/zh-Hans/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/zh-Hant/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/FSharp.Core.dll",
+        "lib/netstandard2.1/FSharp.Core.xml",
+        "lib/netstandard2.1/cs/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/de/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/es/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/fr/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/it/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/ja/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/ko/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/pl/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/ru/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/tr/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll"
+      ]
+    },
+    "EventSource/1.0.0": {
+      "type": "project",
+      "path": "../EventSource/EventSource.fsproj",
+      "msbuildProject": "../EventSource/EventSource.fsproj"
+    },
+    "MLGame/1.0.0": {
+      "type": "project",
+      "path": "../MLGame/MLGame.fsproj",
+      "msbuildProject": "../MLGame/MLGame.fsproj"
+    },
+    "Types/1.0.0": {
+      "type": "project",
+      "path": "../Types/Types.fsproj",
+      "msbuildProject": "../Types/Types.fsproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "EventSource >= 1.0.0",
+      "FSharp.Core >= 6.0.1"
+    ]
+  },
+  "packageFolders": {
+    "/Users/hunterkingsbeer/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Application/Application.fsproj",
+      "projectName": "Application",
+      "projectPath": "/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Application/Application.fsproj",
+      "packagesPath": "/Users/hunterkingsbeer/.nuget/packages/",
+      "outputPath": "/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/hunterkingsbeer/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/EducationPerfect/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/EventSource/EventSource.fsproj": {
+              "projectPath": "/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/EventSource/EventSource.fsproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "FSharp.Core": {
+            "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+            "target": "Package",
+            "version": "[6.0.1, )",
+            "generatePathProperty": true
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/nix/store/62cp6m0g0671y40zfrqhzr58mr93jkba-dotnet-core-combined/sdk/6.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

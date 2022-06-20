@@ -1,0 +1,10 @@
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/bin/Debug/net6.0/Types.deps.json
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/bin/Debug/net6.0/Types.dll
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/bin/Debug/net6.0/Types.pdb
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/bin/Debug/net6.0/Types.xml
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/obj/Debug/net6.0/Types.fsproj.AssemblyReference.cache
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/obj/Debug/net6.0/Types.AssemblyInfoInputs.cache
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/obj/Debug/net6.0/Types.AssemblyInfo.fs
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/obj/Debug/net6.0/Types.dll
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/obj/Debug/net6.0/Types.xml
+/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/Types/obj/Debug/net6.0/Types.pdb

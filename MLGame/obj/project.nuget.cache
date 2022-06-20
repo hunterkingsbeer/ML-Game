@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XgHS1Rve83mHmbORQC2H8EeP0vcFbkI42o8mWKMy2c7+JWGUA9xcQYpCcMmuWlZVAVb5bu8b7a1AW7FcqZ3cvw==",
+  "success": true,
+  "projectFilePath": "/Users/hunterkingsbeer/PERSONAL/ML-Game/ConsoleApp1/MLGame/MLGame.fsproj",
+  "expectedPackageFiles": [
+    "/Users/hunterkingsbeer/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
